@@ -1,0 +1,17 @@
+.menu {
+  font-size: 1.2rem;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.active-link {
+  font-weight: bold;
+  color: #07c5fa;
+}
